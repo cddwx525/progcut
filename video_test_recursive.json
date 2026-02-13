@@ -1,0 +1,224 @@
+{
+    "name": "main",
+    "build": [],
+    "video": {},
+    "text":
+    [
+        {
+            "content":
+            [
+                "Diewuxi"
+            ],
+            "color": "Green",
+            "position": [180, 34],
+            "size": 1
+        }
+    ],
+    "audio":
+    {
+    },
+    "clips":
+    [
+        {
+            "name": "cover",
+            "video": {"type": "color", "duration": 9},
+            "text":
+            [
+                {
+                    "content": [ "人物" ],
+                    "time":[0.5, 2],
+                    "position": ["c", 15],
+                    "size": 4
+                },
+                {
+                    "content": [ "EP01" ],
+                    "time":[3, 8],
+                    "position": ["c", 11],
+                    "size": 4
+                },
+                {
+                    "content": [ "小伙徐云流浪中国 扎营炒菜踏遍千山" ],
+                    "time":[3, 8],
+                    "position": ["c", 15],
+                    "size": 4
+                }
+            ],
+            "audio": { }
+        },
+        {
+            "name": "s01-title",
+            "video": {"type": "color", "duration": 3},
+            "text":
+            [
+                {
+                    "content": [ "徐云流浪中国第01季" ],
+                    "position": ["c", 11],
+                    "size": 4
+                },
+                {
+                    "content": [ "落魄江湖" ],
+                    "position": ["c", 16],
+                    "size": 6
+                }
+            ],
+            "audio": {}
+        },
+        {
+            "name": "s01",
+            "video": {"type": "color", "duration": 3},
+            "text":
+            [
+                {
+                    "content": [ "徐云流浪中国第01季" ],
+                    "position": [4, 5],
+                    "size": 4
+                }
+            ],
+            "audio":
+            {
+                "type": "file",
+                "file":
+                [
+                    "01.05.敢问路在何方__蒋大为.mp3",
+                    "01.04.走啊走__周立夫.mp3"
+                ]
+            },
+            "clips":
+            [
+                {
+                    "name": "s01e01",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "01" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                },
+                {
+                    "name": "s01e02",
+                    "video": { "type": "color", "duration": 60 },
+                    "text":
+                    [
+                        {
+                            "content": [ "02" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                },
+                {
+                    "name": "s01e03",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "03" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": { }
+                }
+            ]
+        },
+        {
+            "name": "s02",
+            "video": {"type": "color", "duration": 3},
+            "text":
+            [
+                {
+                    "content": [ "徐云流浪中国第02季" ],
+                    "position": ["c", 11],
+                    "size": 4
+                },
+                {
+                    "content": [ "风雪川藏北" ],
+                    "position": ["c", 16],
+                    "size": 6
+                }
+            ],
+            "audio": { },
+            "clips":
+            [
+                {
+                    "name": "s02e01",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "01" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                },
+                {
+                    "name": "s02e02",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "02" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                },
+                {
+                    "name": "s02e03",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "03" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                },
+                {
+                    "name": "s02e04",
+                    "video": { "type": "color", "duration": 1 },
+                    "text":
+                    [
+                        {
+                            "content": [ "04" ],
+                            "position": ["c", 15],
+                            "size": 4
+                        }
+                    ],
+                    "audio": {  }
+                }
+            ]
+        },
+        {
+            "name": "goodbye",
+            "video": {"type": "color", "duration": 5},
+            "text":
+            [
+                {
+                    "content":
+                    [
+                        "完"
+                    ]
+                }
+            ],
+            "audio":
+            {
+                "type": "speech",
+                "speech":
+                [
+                    "谢谢观看，下期见。"
+                ]
+            }
+        }
+    ]
+}
